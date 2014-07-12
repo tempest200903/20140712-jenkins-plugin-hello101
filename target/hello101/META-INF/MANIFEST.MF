@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Built-By: simei
+Created-By: Apache Maven
+Build-Jdk: 1.7.0_17
+Extension-Name: hello101
+Implementation-Title: hello101
+Implementation-Version: 1.0-SNAPSHOT
+Group-Id: com.example
+Short-Name: hello101
+Long-Name: hello101
+Url: http://jenkins-ci.org/plugin/hello101/
+Plugin-Version: 1.0-SNAPSHOT (private-07/12/2014 22:02-simei)
+Hudson-Version: 1.532.3
+Jenkins-Version: 1.532.3
+Plugin-Developers: 
+

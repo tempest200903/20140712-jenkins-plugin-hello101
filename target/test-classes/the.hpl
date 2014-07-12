@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Group-Id: com.example
+Short-Name: hello101
+Long-Name: hello101
+Url: http://jenkins-ci.org/plugin/hello101/
+Plugin-Version: 1.0-SNAPSHOT (private-07/12/2014 22:01-simei)
+Hudson-Version: 1.532.3
+Jenkins-Version: 1.532.3
+Plugin-Developers: 
+Libraries: F:\goat-pc-data\ecworkspace\20140712-jenkins-plugin-hello10
+ 1\target\classes
+Resource-Path: F:\goat-pc-data\ecworkspace\20140712-jenkins-plugin-hel
+ lo101\src\main\webapp
+
